@@ -1,0 +1,70 @@
+{
+  "hash": "b45c1b40",
+  "configHash": "aa40628e",
+  "lockfileHash": "71b81cc6",
+  "browserHash": "8ba9924f",
+  "optimized": {
+    "@progress/kendo-react-buttons": {
+      "src": "../../node_modules/@progress/kendo-react-buttons/index.mjs",
+      "file": "@progress_kendo-react-buttons.js",
+      "fileHash": "01fda190",
+      "needsInterop": false
+    },
+    "@progress/kendo-react-conversational-ui": {
+      "src": "../../node_modules/@progress/kendo-react-conversational-ui/index.mjs",
+      "file": "@progress_kendo-react-conversational-ui.js",
+      "fileHash": "8d2d1ff7",
+      "needsInterop": false
+    },
+    "@progress/kendo-svg-icons": {
+      "src": "../../node_modules/@progress/kendo-svg-icons/dist/index.es.js",
+      "file": "@progress_kendo-svg-icons.js",
+      "fileHash": "69c94b53",
+      "needsInterop": false
+    },
+    "marked": {
+      "src": "../../node_modules/marked/lib/marked.esm.js",
+      "file": "marked.js",
+      "fileHash": "407f0727",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1db36a12",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "0941b631",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c40d49e7",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "6261f736",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "kendo-react-buttons-DpP-TOWc": {
+      "file": "kendo-react-buttons-DpP-TOWc.js",
+      "isDynamicEntry": false
+    },
+    "react-BDWiK9rz": {
+      "file": "react-BDWiK9rz.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-C08K6auO": {
+      "file": "react-dom-C08K6auO.js",
+      "isDynamicEntry": false
+    }
+  }
+}
